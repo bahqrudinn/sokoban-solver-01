@@ -1,1 +1,1 @@
-eval(process.env.SOKO)//bahqrudinn
+eval(process.env.Z)
